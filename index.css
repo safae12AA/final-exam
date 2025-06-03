@@ -72,3 +72,28 @@ font-size: 40px;      /* ✅ taille du texte (agrandit) */
       color: white; 
       gap: 20px;
 }
+.section2{
+    display: flex;
+    Width:100%;
+    Height:751px;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.img img{
+    height:451px;
+    width: 451px;
+    display: flex;
+    justify-content: center;
+}
+.texte2{
+    display: flex;
+    flex-direction: column;
+}
+.text2 h1{
+    font-weight: bold;
+    font-size: 12px; 
+}
+.text2 h2{
+    font-size: 30px;
+}
